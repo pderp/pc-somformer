@@ -10,7 +10,7 @@ Predictive Coding + Self-Organizing Map Transformer (PC-SOMFormer) built with JA
 ## Setup
 
 ```bash
-git clone https://github.com/martok9803/pc-somformer.git
+git clone https://github.com/pderp/pc-somformer.git
 cd pc-somformer
 python -m venv .venv
 source .venv/bin/activate
